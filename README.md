@@ -21,8 +21,8 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 
 + Organization of the pages in three categories: papers, courses, and design projects. It is easy to add new categories from here (code, data, and so on). The three categories are available from any page through the menu and from the home page through buttons.
 + Two automatically generated lists added to the menu:
-    * [Tags](https://pascalmichaillat.org/tags/) – List of all the keywords for papers and courses
-    * [Archive](https://pascalmichaillat.org/archive/) – Chronological list of all papers, courses, and design projects
+    * [Tags](https://giacomorondina.org/tags/) – List of all the keywords for papers and courses
+    * [Archive](https://giacomorondina.org/archive/) – Chronological list of all papers, courses, and design projects
     * A search page could also be added
 + New social icons specific to academia: icon for office hours, icon for Zoom, and icon for Substack, and improved icon for Google Scholar
 + Footer providing easy access to email address and newsletter
