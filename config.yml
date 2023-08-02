@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://giacomorondina.org/" 
+title: Giacomo Rondina
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: giacomorondina
 
 taxonomies:
     tag: tags
@@ -26,9 +26,9 @@ menu:
         - name: Tags
           url: /tags/
           weight: 5     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+       # - name: Newsletter
+        #  url: https://pmichaillat.substack.com
+        #  weight: 4
 
 params:
     description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
