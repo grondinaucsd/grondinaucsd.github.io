@@ -1,4 +1,4 @@
 ---
 title: "Courses"
-description: "Courses on economic slack, unemployment, macroeconomics, and mathematical methods for macroeconomics. For undergraduate and graduate students."
+description: "A list of classes and syllabi of courses that I am currently teaching"
 ---
