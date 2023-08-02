@@ -55,12 +55,13 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          title: Giacomo Rondina
+          subtitle: "I am an Associate Teaching Professor of Economics at the University of California, San Diego. 
+          My current research is on trying to understand to what extent sustainable investing can impact real capital allocation and innovation at the macroeconomic level."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Giacomo Rondina
           buttons:
             - name: Papers
               url: /papers/
