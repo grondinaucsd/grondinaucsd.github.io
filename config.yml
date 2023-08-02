@@ -31,7 +31,7 @@ menu:
         #  weight: 4
 
 params:
-    description: "I am an Associate Teaching Professor of Economics at UC San Diego. My research is in macroeconomics."
+    description: "I am Associate Teaching Professor of Economics at UC San Diego. My research is in Macroeconomics."
     author: Giacomo Rondina
     googleAnalyticsID: "G-778NNNSD9Z"
     DateFormat: "January 2006"
@@ -56,8 +56,8 @@ params:
     profileMode:
           enabled: true
           title: Giacomo Rondina
-          subtitle: "I am an Associate Teaching Professor of Economics at the University of California, San Diego. 
-          My current research is on understanding the impact of sustainable investing on real capital allocation and innovation at the macroeconomic level."
+          subtitle: "I am Associate Teaching Professor of Economics at the University of California, San Diego. 
+          My most recent research is on understanding the impact of sustainable investing on real capital allocation and innovation at the macroeconomic level."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
