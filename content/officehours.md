@@ -10,7 +10,7 @@ description: "Schedule and location for my office hours at the University of Cal
 
 #### Regular office hours
 
-Regular office hours will start in the Fall Quarter (9/28/2023–12/8/2023). 
+I hold regular office hours during my teaching quarters.
 
 ---
 
