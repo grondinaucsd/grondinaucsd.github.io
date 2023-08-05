@@ -53,7 +53,7 @@ params:
           title: Giacomo Rondina
           subtitle: "I am Associate Teaching Professor of Economics at the University of California, San Diego. 
           My primary research field is Macroeconomics. My most recent research is on understanding the impact of sustainable investing on real capital allocation and innovation at the macroeconomic level."
-          imageUrl: "/picture.jpeg"
+          imageUrl: "/Giacomo_2017.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Giacomo Rondina
@@ -62,10 +62,8 @@ params:
               url: /papers/
             - name: Courses
               url: /courses/
-            #- name: Design
-            #  url: /design/
-            #- name: Newsletter
-            #  url: https://pmichaillat.substack.com
+            - name: Tags
+              url: /tags/
     socialIcons:
         - name: CV
           url: /cv.pdf
@@ -77,8 +75,6 @@ params:
           url: /officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=I_UDccUAAAAJ&hl=en
-        #- name: YouTube
-        #  url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/grondinaucsd?tab=repositories
 
