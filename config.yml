@@ -51,9 +51,9 @@ params:
     profileMode:
           enabled: true
           title: Giacomo Rondina
-          subtitle: "I am Associate Teaching Professor of Economics at the University of California, San Diego. 
-          My primary research field is Macroeconomics. My most recent research is on understanding the impact of sustainable investing on real capital allocation and innovation at the macroeconomic level."
-          imageUrl: "/Giacomo_2017.jpg"
+          subtitle: "I am Associate Teaching Professor of Economics at the University of California, San Diego. \\
+          My primary research field is Macroeconomics. My most recent research is on understanding the impact of preferences for sustainable investing on aggregate capital allocation and innovation."
+          imageUrl: "/giacomo_2017.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Giacomo Rondina
