@@ -1,5 +1,5 @@
 ---
-title: "Mathematical Methods for Macroeconomics"  
+title: "Macroeconomic Data Analysis"  
 date: 2013-10-01
 url: /c3/
 aliases:
@@ -8,9 +8,9 @@ aliases:
     - /uploads/7/0/2/0/70200055/t3b.pdf
     - /uploads/7/0/2/0/70200055/t3c.pdf
     - /uploads/7/0/2/0/70200055/t3f.pdf
-tags: ["differential equations","optimal control"]
-author: "Pascal Michaillat"
-description: "This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations." 
+tags: ["time series","data analysis"]
+author: "Giacomo Rondina"
+description: "This upper-level undergraduate course covers the basic of time-series analysis with applications to macroeconomics." 
 summary: "This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations." 
 cover:
     image: "/c3.png"
@@ -26,7 +26,10 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers basic mathematical methods to study dynamical systems, in discrete time and in continuous time. Dynamical systems are systems that involve more than one time-period; they are prevalent in macroeconomics. We first discuss dynamic programming, which is a method to solve dynamic optimization problems in discrete time. We then turn to optimal control, which is a method to solve dynamic optimization problems in continuous time. Finally, we show how to solve differential equations, which are used to describe continuous-time dynamical systems.
+The courses examines time series methods for data analysis with an emphasis on macroeconomic
+applications. The aim of the class is to provide students with a basic formal introduction to modern
+time series techniques, hands-on experience in applying them to real-world macroeconomic data, and
+understanding of how to bring data to bear on policy-relevant macroeconomic theories.
 
 ---
 
