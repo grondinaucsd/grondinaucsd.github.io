@@ -86,7 +86,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Giacomo Rondina"
-      icon: /favicon.ico
+      icon: /static/favicon.ico
       iconHeight: 18
 
 markup:
