@@ -78,7 +78,7 @@ params:
         - name: GitHub
           url: https://github.com/grondinaucsd?tab=repositories
         - name: Twitter
-          url: @giacomorondina
+          url: https://twitter.com/giacomorondina?lang=en
 
     assets:
         disableHLJS: true
