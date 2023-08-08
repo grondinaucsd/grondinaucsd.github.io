@@ -77,6 +77,8 @@ params:
           url: https://scholar.google.com/citations?user=I_UDccUAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/grondinaucsd?tab=repositories
+        - name: Twitter
+          url: @giacomorondina
 
     assets:
         disableHLJS: true
