@@ -1,6 +1,6 @@
 ---
-title: "Macroeconomic Data Analysis"  
-date: 2023-03-01
+title: "The Macroeconomic Theory of Sustainability"  
+date: 2022-07-01
 url: /112/
 aliases:
     - /t3.html
