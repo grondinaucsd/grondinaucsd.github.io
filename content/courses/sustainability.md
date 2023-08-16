@@ -29,6 +29,7 @@ disableAnchoredHeadings: false
 The course is a short introduction to the analytical tools and basic results in the theory of economic sustainability
 from a macroeconomic perspective. The class begins by reviewing dynamic decision-making in continuous time, efficiency, and intergenerational
 equity. It then reviews the axiomatic approach to intergenerational preferences and presents alternative sustainability criteria, which are subsequently applied to macroeconomic models with non-renewable and renewable resources, and with reproducible capital. It finally explores the implications of sustainability criteria for national accounting practices.
+
 ---
 
 ## Lecture 1: Dynamic Decision-Making, Efficiency, and Intergenerational Equity
