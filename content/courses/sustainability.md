@@ -36,10 +36,8 @@ equity. It then reviews the axiomatic approach to intergenerational preferences 
 
 Lecture 1 presents a review of dynamic decision-making in continuous time, the competing notions of efficiency and intergenerational equity, and an overview of the macroeconomic approach to sustainability.
 
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: ["Applied Time Series for Macroeconomics," by Hilde Bjornland and Leif
-Thorsrud, Gyldendal Publisher (2015).](https://www.gyldendal.no/faglitteratur/e-boeker/oekonomi-og-administrasjon/applied-time-series-for-macroeconomics-e-bok/p-10024192-no/)
++ [Lecture notes](/static/uss_l1.pdf)
++ Reference: ["Valuing the Future: Economic Theory and Sustainability" by Geoffrey M. Heal, Columbia University Publishing (1998).](http://cup.columbia.edu/book/valuing-the-future/9780231113076)
 
 ---
 
