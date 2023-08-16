@@ -10,8 +10,8 @@ aliases:
     - /uploads/7/0/2/0/70200055/t3f.pdf
 tags: ["time series","data analysis"]
 author: "Giacomo Rondina"
-description: "This upper-level undergraduate course covers the basic of time-series analysis with applications to macroeconomics." 
-summary: "This upper-level undergraduate course covers the basic of time-series analysis with applications to macroeconomics." 
+description: "This graduate-level course is an introduction to the macroeconomic theory of sustainability." 
+summary: "This graduate-level course is an introduction to the macroeconomic theory of sustainability." 
 cover:
     image: "/c3.png"
     alt: "Phase diagram depicting a saddle path"
@@ -26,10 +26,10 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-The courses examines time series methods for data analysis with an emphasis on macroeconomic
-applications. The aim of the class is to provide students with a basic formal introduction to modern
-time series techniques, hands-on experience in applying them to real-world macroeconomic data, and
-understanding of how to bring data to bear on policy-relevant macroeconomic theories.
+The course is a short introduction to the analytical tools and basic results in the theory of economic sustainability
+from a macroeconomic perspective. The class begins by reviewing dynamic decision-making in continuous time, efficiency and intergenerational
+equity. It then covers alternative sustainability criteria in the context of macroeconomic models with non-renewable and renewable resources, and with reproducible capital. 
+It finally explores the implications of sustainability criteria for national accounting practices.
 
 + [Syllabus](/static/Econ_112_Syllabus.pdf)
 ---
