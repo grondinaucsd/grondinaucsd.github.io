@@ -41,7 +41,7 @@ Lecture 1 presents a review of dynamic decision-making in continuous time, the c
 
 ---
 
-## Module 2: Estimation, Inference, and Prediction
+## Lecture 2: Sustainability Criteria
 
 Lecture 2 reviews the axiomatic approach to intertemporal preferences and lays out four sustainability criteria: undiscounted utility (Ramsey criterion); maximin (Rawls criterion); the Green Golden Rule; and the Chichilnisky criterion. The criteria are applied to dynamic models with non-renewable and renewable resources.
 
