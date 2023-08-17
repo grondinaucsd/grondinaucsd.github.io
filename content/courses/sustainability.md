@@ -35,7 +35,7 @@ equity. It then reviews the axiomatic approach to intergenerational preferences 
 ## Lecture 1: Dynamic Decision-Making, Efficiency, and Intergenerational Equity
 
 Lecture 1 presents a review of dynamic decision-making in continuous time, the competing notions of efficiency and intergenerational equity, and an overview of the macroeconomic approach to sustainability.
-
+![](/static/uss_l1_pic.png)
 + [Lecture notes](/static/uss_l1.pdf)
 + Reference: ["Valuing the Future: Economic Theory and Sustainability" by Geoffrey M. Heal, Columbia University Publishing (1998).](http://cup.columbia.edu/book/valuing-the-future/9780231113076)
 
