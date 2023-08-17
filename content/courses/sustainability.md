@@ -43,12 +43,11 @@ Lecture 1 presents a review of dynamic decision-making in continuous time, the c
 
 ## Module 2: Estimation, Inference, and Prediction
 
-Module 2 studies the estimation of linear time-series models and their use for inference and for prediction. 
+Lecture 2 reviews the axiomatic approach to intertemporal preferences and lays out four sustainability criteria: undiscounted utility (Ramsey criterion); maximin (Rawls criterion); the Green Golden Rule; and the Chichilnisky criterion. The criteria are applied to dynamic models with non-renewable and renewable resources.
 
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: ["Applied Time Series for Macroeconomics," by Hilde Bjornland and Leif
-Thorsrud, Gyldendal Publisher (2015).](https://www.gyldendal.no/faglitteratur/e-boeker/oekonomi-og-administrasjon/applied-time-series-for-macroeconomics-e-bok/p-10024192-no/)
+![](/static/uss_l2_pic.png)
++ [Lecture notes](/static/uss_l2.pdf)
++ Reference: ["Valuing the Future: Economic Theory and Sustainability" by Geoffrey M. Heal, Columbia University Publishing (1998).](http://cup.columbia.edu/book/valuing-the-future/9780231113076)
 
 ---
 
