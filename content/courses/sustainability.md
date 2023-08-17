@@ -1,7 +1,7 @@
 ---
 title: "The Macroeconomic Theory of Sustainability"  
 date: 2022-07-01
-url: /112/
+url: /sustainability/
 aliases:
     - /t3.html
     - /uploads/7/0/2/0/70200055/t3a.pdf
