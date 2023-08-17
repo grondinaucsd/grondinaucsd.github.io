@@ -8,7 +8,7 @@ aliases:
     - /uploads/7/0/2/0/70200055/t3b.pdf
     - /uploads/7/0/2/0/70200055/t3c.pdf
     - /uploads/7/0/2/0/70200055/t3f.pdf
-tags: ["time series","data analysis"]
+tags: ["sustainability","national accounting"]
 author: "Giacomo Rondina"
 description: "This graduate-level course is an introduction to the macroeconomic theory of sustainability." 
 summary: "This graduate-level course is an introduction to the macroeconomic theory of sustainability." 
@@ -65,24 +65,14 @@ and relates that to sustainability and genuine savings.
 
 ---
 
-## Module 4: Multivariate Time Series
+## Lecture 4: Measuring What Matters: Sustainability and National Accounting
 
-Module 4 studies vector autoregressions (VARs), starting with reduced-form analysis, and introducing structural VARs via the equations ordering (Cholesky Decomposition) approach.
+Lecture 4 presents a short introduction to the theory of Comprehensive National Accounting and discusses challenges and opportunities for the future. 
 
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: ["Applied Time Series for Macroeconomics," by Hilde Bjornland and Leif
-Thorsrud, Gyldendal Publisher (2015).](https://www.gyldendal.no/faglitteratur/e-boeker/oekonomi-og-administrasjon/applied-time-series-for-macroeconomics-e-bok/p-10024192-no/)
-
----
-
-## Module 5: Cointegration and Spurious Regressions
-
-Module 5 studies nonstationarity in a multivariate setting, analyzing spurious regressions, and cointegration.
-
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: ["Applied Time Series for Macroeconomics," by Hilde Bjornland and Leif
-Thorsrud, Gyldendal Publisher (2015).](https://www.gyldendal.no/faglitteratur/e-boeker/oekonomi-og-administrasjon/applied-time-series-for-macroeconomics-e-bok/p-10024192-no/)
+![](/static/uss_l4_pic.png)
++ [Lecture notes](/static/uss_l4.pdf)
++ Reference: ["Valuing the Future: Economic Theory and Sustainability" by Geoffrey M. Heal, Columbia University Publishing (1998).](http://cup.columbia.edu/book/valuing-the-future/9780231113076)
 
 ---
+
+
