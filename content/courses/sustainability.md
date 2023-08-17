@@ -30,7 +30,9 @@ The course is a short introduction to the analytical tools and basic results in 
 from a macroeconomic perspective. The class begins by reviewing dynamic decision-making in continuous time, efficiency, and intergenerational
 equity. It then reviews the axiomatic approach to intergenerational preferences and presents alternative sustainability criteria, 
 which are subsequently applied to macroeconomic models with non-renewable and renewable resources, and with reproducible capital. 
-It finally explores the implications of sustainability criteria for national accounting practices.
+It finally explores the implications of sustainability criteria for national accounting practices. 
+
+The lectures were prepared for the [2022 Summer School of the Italian Association of Environmental and Resource Economists](https://iaere.org/school/2022/index.html) held at the University of Urbino (Italy).
 
 ---
 
