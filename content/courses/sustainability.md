@@ -28,7 +28,9 @@ disableAnchoredHeadings: false
 
 The course is a short introduction to the analytical tools and basic results in the theory of economic sustainability
 from a macroeconomic perspective. The class begins by reviewing dynamic decision-making in continuous time, efficiency, and intergenerational
-equity. It then reviews the axiomatic approach to intergenerational preferences and presents alternative sustainability criteria, which are subsequently applied to macroeconomic models with non-renewable and renewable resources, and with reproducible capital. It finally explores the implications of sustainability criteria for national accounting practices.
+equity. It then reviews the axiomatic approach to intergenerational preferences and presents alternative sustainability criteria, 
+which are subsequently applied to macroeconomic models with non-renewable and renewable resources, and with reproducible capital. 
+It finally explores the implications of sustainability criteria for national accounting practices.
 
 ---
 
@@ -52,14 +54,14 @@ Lecture 2 reviews the axiomatic approach to intertemporal preferences and lays o
 
 ---
 
-## Module 3: Non-Stationarity, Trends, and Cycles
+## Lecture 3: Sustainability with Reproducible Capital
 
-Module 3 studies the properties of non-stationary time series, and analyzes alternative measures of trends and cycles.
+Lecture 3 studies the Daspupta-Heal-Stiglitz-Solow model of growth with reproducible capital and natural resources and applies to it the sustainability criteria developed in Lecture 2. It reviews the Hartwick's Rule
+and relates that to sustainability and genuine savings.
 
-+ [Lecture notes](/x1.pdf)
-+ [Problem set](/x4.pdf)
-+ Reference: ["Applied Time Series for Macroeconomics," by Hilde Bjornland and Leif
-Thorsrud, Gyldendal Publisher (2015).](https://www.gyldendal.no/faglitteratur/e-boeker/oekonomi-og-administrasjon/applied-time-series-for-macroeconomics-e-bok/p-10024192-no/)
+![](/static/uss_l3_pic.png)
++ [Lecture notes](/static/uss_l3.pdf)
++ Reference: ["Valuing the Future: Economic Theory and Sustainability" by Geoffrey M. Heal, Columbia University Publishing (1998).](http://cup.columbia.edu/book/valuing-the-future/9780231113076)
 
 ---
 
