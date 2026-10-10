@@ -1,0 +1,641 @@
+% !TeX program = pdflatex
+% !TeX encoding = UTF-8
+% Giacomo Rondina CV, converted from the updated RondinaCV_July2026(1).pdf.
+% Compile with pdfLaTeX in TeXstudio. No external files or custom fonts needed.
+% Content is preserved as supplied, including the July 2026 date.
+% Year-led entries share fixed date and description columns throughout.
+% See README.txt for instructions, suggestions, and source review items.
+\documentclass[12pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{mathptmx} % Portable Times-compatible font; no system font required.
+\usepackage[left=1in,right=1in,top=0.8125in,bottom=1in,footskip=0.5in]{geometry}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{needspace}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{pdftitle={Giacomo Rondina -- Curriculum Vitae -- July 2026},
+            pdfauthor={Giacomo Rondina},pdfsubject={Curriculum Vitae}}
+
+% ---------- Layout controls ----------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\raggedbottom
+\widowpenalty=10000
+\clubpenalty=10000
+\hyphenpenalty=800
+\newcommand{\cvblank}{\par\vspace{11pt}}
+
+% Section headings reproduce the Word small-cap appearance and thin rule.
+\newcommand{\cvsection}[1]{%
+  \par\Needspace{5\baselineskip}%
+  {\fontsize{13}{14.8}\selectfont\scshape #1\par}%
+  \nobreak\vspace{3pt}\hrule height 0.5pt\nobreak\vspace{10pt}}
+\newcommand{\cvsubsection}[2][0.125in]{%
+  \par\Needspace{4\baselineskip}%
+  {\leftskip=#1\relax\scshape #2\par}\nobreak}
+\newcommand{\cvschool}[2][0pt]{%
+  \par\Needspace{4\baselineskip}%
+  {\leftskip=#1\relax #2\par}\nobreak}
+\newcommand{\cvtext}[2][0pt]{%
+  \par\begingroup\raggedright\leftskip=#1\relax\noindent #2\par\endgroup}
+\newcommand{\cvjustify}[2][0.2in]{%
+  \par\begingroup\leftskip=#1\relax #2\par\endgroup}
+\newcommand{\cvhang}[2]{%
+  \par\begingroup\raggedright\hangindent=#1\relax\hangafter=1 #2\par\endgroup}
+% Every leading year begins at the left margin; every description, including
+% its continuation lines, begins exactly \cvyearwidth farther to the right.
+% This is a paragraph layout, so long entries can still span pages.
+\newlength{\cvyearwidth}
+\setlength{\cvyearwidth}{1.10in}
+\newcommand{\cvyearentry}[2]{%
+  \par\Needspace{2\baselineskip}%
+  \begingroup\raggedright\leftskip=\cvyearwidth\relax%
+  \noindent\llap{\makebox[\cvyearwidth][l]{#1}}#2\par\endgroup}
+\newcommand{\cvpaper}[1]{%
+  \par\Needspace{3\baselineskip}%
+  \begingroup\raggedright\leftskip=0.5in\relax%
+  \noindent\llap{-\hspace{0.18in}}#1\par\endgroup}
+% Appointment/education dates occupy a separate fixed-width right column.
+\newlength{\cvrightdatewidth}
+\setlength{\cvrightdatewidth}{1.35in}
+\newcommand{\cvdated}[2]{%
+  \par\noindent%
+  \begin{minipage}[t]{\dimexpr\linewidth-\cvrightdatewidth-0.12in\relax}%
+  \raggedright #1\end{minipage}\hspace{0.12in}%
+  \begin{minipage}[t]{\cvrightdatewidth}%
+  \raggedleft\fontsize{10}{13.8}\selectfont #2\end{minipage}\par}
+
+% Word-style footer, including the light rule and right-aligned page number.
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0.3pt}
+\renewcommand{\footrule}{\hbox to\headwidth{\color{black!18}\leaders\hrule height\footrulewidth\hfill}}
+\fancyfoot[R]{\fontsize{11}{12}\selectfont\thepage\,|\,\textcolor{gray}{P\,a\,g\,e}}
+
+\begin{document}
+\fontsize{12}{13.8}\selectfont
+\begin{center}
+GIACOMO RONDINA\\
+Curriculum Vitae -- July 2026
+\end{center}
+\vspace{20pt}
+
+% ============ CURRENT POSITION ============
+\cvsection{Current Position}
+
+\cvdated{Associate Professor of Teaching,\\\textit{Department of Economics}, {\scshape UC--San Diego}}{July 2017 -- present}
+
+\cvblank
+
+
+% ============ PAST POSITIONS ============
+\cvsection{Past Positions}
+
+\cvdated{Assistant Professor, {\scshape University of Colorado--boulder}}{July 2014 -- June 2017}
+
+\cvdated{Assistant Professor, {\scshape University of California--San Diego}}{July 2007 -- June 2014}
+
+\cvdated{Associate Editor, \textit{European Economic Review}}{Oct 2017 -- Sept 2021}
+
+\cvblank
+
+
+% ============ EDUCATION ============
+\cvsection{Education}
+
+\cvdated{\hspace{0.125in}{\scshape University of Wisconsin--Madison}, {\fontsize{10}{13.8}\selectfont Ph.D. in Economics}}{June 2007}
+
+\cvdated{\hspace{0.125in}{\scshape University of Wisconsin--Madison}, {\fontsize{10}{13.8}\selectfont M.A. in Economics}}{June 2003}
+
+\cvdated{\hspace{0.125in}{\scshape Luiss ``Guido Carli''-rome}, {\fontsize{10}{13.8}\selectfont Laurea in Economics, \textit{Summa Cum Laude}}}{March 2001}
+
+\cvblank
+
+
+% ============ RESEARCH ============
+\cvsection{Research}
+
+\cvsubsection[0.125in]{Field of Interest}
+
+\cvblank
+
+\cvtext[0.2in]{Primary: Macroeconomics. Secondary: Theory, Environmental, International}
+
+\cvblank
+
+\cvsubsection[0.125in]{Publications}
+
+\cvblank
+
+\cvpaper{``Economics of Orbit Use: Open Access, External Cost, and Runaway Debris Growth,'' (with Akhil Rao), \textit{Journal of the Association of Environmental and Resource Economists}, 12(2), March 2025}
+
+\cvblank
+
+\cvpaper{``Information Aggregation Bias and Samuelson's Dictum,'' (with Yongok Choi and Todd B. Walker), \textit{Journal of Money, Credit and Banking}, 55(5), August 2023}
+
+\cvblank
+
+\cvpaper{``Confounding Dynamics'', (with Todd B. Walker), \textit{Journal of Economic Theory, }156, September 2021}
+
+\cvblank
+
+\cvpaper{``Learning and Informational Stability of Dynamic REE with Incomplete Information'', (with Todd B. Walker), \textit{The Review of Economic Dynamics}, 21, July 2016}
+
+\cvblank
+
+\cvpaper{``Financial Prices and Information Acquisition in Large Cournot Markets'', with Myungkyu Shim, \textit{Journal of Economic Theory,} 158(B), July 2015}
+
+\cvblank
+
+\cvpaper{``Design Limits and Dynamic Policy Analysis'', with William A. Brock and Steven N. Durlauf, \textit{Journal of Economic Dynamics and Control}, 37(12), December 2013}
+
+\cvblank
+
+\cvpaper{``A Note on Futia (1981)'s Non-Existence Pathology of Rational Expectations Equilibria'', with Todd B. Walker, \textit{Economic Letters}, 120(2), August 2013}
+
+\cvblank
+
+\cvpaper{``Nonlinearities in Growth: From Evidence to Policy'' (with E. Cohen-Cole and S.N. Durlauf), \textit{Journal of Macroeconomics, }34(1), March 2012}
+
+\cvblank
+
+\cvpaper{``Frequency-Specific Effects of Monetary Policy Rules'' (with W.A. Brock, and S.N. Durlauf), \textit{American Economic Review, Papers and Proceedings}, 98(2), May 2008}
+
+\cvblank
+
+\cvpaper{``Simple versus Optimal Rules as Guides to Monetary Policy'' (with W.A. Brock, S.N. Durlauf and J.M. Nason), \textit{Journal of Monetary Economics}, 54(5), July 2007, pp 1372-1396.}
+
+\cvblank
+
+\cvsubsection[0.125in]{Working Papers}
+
+\cvblank
+
+\cvpaper{``Financial Prices and Equilibrium Uniqueness in Global Games Models of Crises'' (with Myungkyu Shim), April 2025, R\&R at \textit{Journal of Money, Credit and Banking}}
+
+\cvblank
+
+\cvpaper{``Sustainable Investing in General Equilibrium,'' with Xintong Li, October 2025. R\&R at \textit{European Economic Review}}
+
+\cvblank
+
+\cvpaper{``A Hierarchical Representation of Dispersed Information,'' with Todd B. Walker, June 2026}
+
+\cvblank
+
+\cvpaper{``Blue Paper on Modern Monetary Theory,'' June 2020}
+
+\cvblank
+
+\cvpaper{``Bubbly Financial Globalization'', November 2016}
+
+\cvblank
+
+\cvpaper{``Face-to-Face versus Online Lectures: Results from a Randomized Experiment in Principles of Macroeconomics'', January 2017}
+
+\cvblank
+
+\cvpaper{``Incomplete Information and Informative Pricing'', January 2012}
+
+\cvblank
+
+\cvblank
+
+
+% ============ TEACHING ============
+\cvsection{Teaching}
+
+\cvblank
+
+\cvschool[0pt]{UC S{\fontsize{10}{13.8}\selectfont AN }D{\fontsize{10}{13.8}\selectfont IEGO (2017-present)}}
+
+\cvblank
+
+\cvyearentry{2025-26:}{Principles of Macroeconomics (Econ 3), Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2024-25:}{Principles of Macroeconomics (Econ 3), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2023-24:}{Principles of Macroeconomics (Econ 3), Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2022-23:}{Long-Run Macroeconomics (Econ 110A), Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2021-22:}{Long-Run Macroeconomics (Econ 110A), Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2020-21:}{Intermediate Macroeconomics (Econ 110A), Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2019-20:}{Macroeconomic Data Analysis (Econ 112), Macroeconomic Theory II (Econ 210B)}
+
+\cvblank
+
+\cvyearentry{2018-19:}{Intermediate Macroeconomics (Econ 110A), Macroeconomic Data Analysis (Econ 112)}
+
+\cvblank
+
+\cvyearentry{2017-18:}{Intermediate Macroeconomics (Econ 110A), Topics in Macroeconomics (Econ 281)}
+
+\cvblank
+
+\cvschool[0pt]{CU B{\fontsize{10}{13.8}\selectfont OULDER (2014-2017)}}
+
+\cvblank
+
+\cvyearentry{2016-17:}{Macroeconomic Theory I (Econ 7020)}
+
+\cvblank
+
+\cvyearentry{2015-16:}{Principles of Macroeconomics (Econ 2020), Macroeconomic Theory I (Econ 7020)}
+
+\cvblank
+
+\cvyearentry{2014-15:}{Principles of Macroeconomics (Econ 2020), Macroeconomic Theory I (Econ 7020)}
+
+\cvblank
+
+\cvschool[0pt]{UC S{\fontsize{10}{13.8}\selectfont AN }D{\fontsize{10}{13.8}\selectfont IEGO (2007-2014)}}
+
+\cvblank
+
+\cvyearentry{2013-14:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory I (Econ 210A), Pre-Candidacy Presentation/Original Research Paper (Econ 285/296)}
+
+\cvblank
+
+\cvyearentry{2012-13:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory I (Econ 210A), Advanced Macroeconomics (Econ 211), Pre-Candidacy Presentation/Original Research Paper (Econ 285/296)}
+
+\cvblank
+
+\cvyearentry{2011-12:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory I (Econ 210A),}
+
+\cvblank
+
+\cvyearentry{2010-11:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory I (Econ 210A), Advanced Macroeconomics (Econ 211)}
+
+\cvblank
+
+\cvyearentry{2009-10:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory III (Econ 210C), Advanced Macroeconomics (Econ 211)}
+
+\cvblank
+
+\cvyearentry{2008-09:}{Intermediate Macroeconomics (Econ 110B), Macroeconomic Theory III (Econ 210C)}
+
+\cvblank
+
+\cvyearentry{2007-08:}{Intermediate Macroeconomics (Econ 110B)}
+
+\cvblank
+
+\cvschool[0pt]{U{\fontsize{10}{13.8}\selectfont NIVERSITY OF }U{\fontsize{10}{13.8}\selectfont RBINO (2021-22)}}
+
+\cvblank
+
+\cvyearentry{Summer 2021:}{Global Imbalances (Intensive course, 2021 Doctorate in Global Studies)}
+
+\cvblank
+
+\cvyearentry{Summer 2022:}{Principles of Economics (Intensive course, 2022 Doctorate in Global Studies), The Macroeconomic Theory of Sustainability: An Introduction (IAERE Summer School 2022)}
+
+\cvblank
+
+\cvblank
+
+\cvblank
+
+
+% ============ PROFESSIONAL ACTIVITIES ============
+\cvsection{Professional Activities}
+
+\cvsubsection[0.125in]{Presentations at Seminars}
+
+\cvblank
+
+\cvjustify{University of San Diego, University of California -- San Diego, SAIF Shanghai, Keio University, Waseda University, Claremont McKenna College, CSU Fort Collins, University of Bologna, University of California-Santa Cruz, Stanford, CU Boulder, Cambridge University (UK), CREI-Pompeu Fabra, Tufts, University of California-Davis, University of California-Berkeley, University of California-Irvine, University of California-Riverside, Penn  State, UCSD, Indiana University, St. Louis Fed, Atlanta Fed, New York Fed, Boston Fed, Chicago Fed, Board of Governors, University of Adelaide, Kansai University, University of Tokyo, Osaka University, Asian Development Bank Institute, University of Urbino}
+
+\cvblank
+
+\cvsubsection[0.125in]{Presentations at Conferences}
+
+\cvblank
+
+\cvyearentry{2025:}{Macroeconomic and Financial Aspects of Climate Change -- Banco de Mexico}
+
+\cvyearentry{2024:}{Financial Market Solutions for Funding Green Transition and Climate Resilience, CAFIN, UC Santa Cruz}
+
+\cvyearentry{2023:}{EEA-ESEM Econometric Society European Meetings, Barcelona}
+
+\cvyearentry{2018:}{SWUFE International Macro-Finance Conference, Chengdu}
+
+\cvyearentry{2017:}{23rd Conference of the Society for Computational Economics, New York, Western Economics International, San Diego; Society for Economic Dynamics, Annual Meeting, Edinburgh.}
+
+\cvyearentry{2017:}{LAEF Conference on ``Bubbles'', UC Santa Barbara.}
+
+\cvyearentry{2014:}{Society for Economic Dynamics, Annual Meeting, Toronto; European Summer Symposium on International Macroeconomics, Tarragona (Spain).}
+
+\cvyearentry{2013:}{West Coast Workshop on International Finance and Open Economy Macroeconomics, Expectations in Dynamic Macroeconomic Models, San Francisco Fed (invited), Society for Advancement of Economic Theory, Annual Meeting, Paris; Barcelona GSE Summer Forum, Asset Prices and the Business Cycle, Barcelona GSE Summer Forum, Information Competition and Market Frictions, Society for Economic Dynamics, Annual Meeting, Seoul, South Korea; Econometric Society, North American Summer Meetings, Los Angeles, International Network on Expectations and Coordination, NYU-New York.}
+
+\cvyearentry{2013:}{AEA, Annual Meetings, San Diego.}
+
+\cvyearentry{2012:}{AEA, Annual Meetings, Chicago.}
+
+\cvyearentry{2011:}{CREI -- Information, Beliefs and Expectations in Macroeconomics.}
+
+\cvyearentry{2009:}{Cowles Summer Conference, Yale University, ``Beliefs in Macroeconomics;'' Econometric Society, North American Winter Meetings, San Francisco.}
+
+\cvyearentry{2008:}{Econometric Society, European Summer Meetings, Milan, Society for Economic Dynamics, MIT-Boston, Econometric Society, North American Winter Meetings, New Orleans.}
+
+\cvyearentry{2007:}{``Frequency Domain Conclave'', University of Illinois at Urbana-Champaign.}
+
+\cvblank
+
+\cvsubsection[0.125in]{Visiting}
+
+\cvblank
+
+\cvtext[0.2in]{Visiting Scholar, University of Urbino (Italy), Summer 2021, 2022}
+
+\cvtext[0.2in]{Visiting Scholar, UCSD Rady School of Management, Spring 2016}
+
+\cvtext[0.2in]{Visiting Scholar, CAEPR Indiana University, February 2014, March 2016, September 2018}
+
+\cvtext[0.2in]{Visiting Scholar, LAEF, UC Santa Barbara, April 2012}
+
+\cvtext[0.2in]{Visiting Scholar, Federal Reserve Bank of Chicago, June 2008}
+
+\cvtext[0.2in]{Visiting Scholar, Federal Reserve Bank of Atlanta, June 2006}
+
+\cvtext[0.2in]{Residential Research Fellow, Ente ``Luigi Einaudi'', Bank of Italy, May-August 2006}
+
+\cvblank
+
+\cvsubsection[0pt]{Affiliations}
+
+\cvblank
+
+\cvtext[0.2in]{Research Affiliate at the Center for Analytical Finance (CAFIN), UC Santa Cruz}
+
+\cvblank
+
+\cvsubsection[0pt]{Refereeing}
+
+\cvblank
+
+\cvjustify{\textit{American Economic Review, Journal of Economic Theory, B.E. Journal of Macroeconomics, Economics and Politics, Empirical Economics, Economic Journal, Journal of Applied Econometrics, Journal of Econometrics, Review of Economic Dynamics, Journal of Money, Credit and Banking, Quantitative Economics, Theoretical Economics, Contemporary Economic Policy, Economic Letters, NSF Grant Proposals Reviewer, Journal of Economic Dynamics and Control, Journal of Monetary Economics, European Economic Review, Environmental Economics and Policy Studies.}}
+
+\cvblank
+
+\cvblank
+
+
+% ============ SERVICE ============
+\cvsection{Service}
+
+\cvblank
+
+\cvsubsection[0pt]{Department and University Administrative Service}
+
+\cvblank
+
+\cvschool[0.2in]{UC S{\fontsize{10}{13.8}\selectfont AN }D{\fontsize{10}{13.8}\selectfont IEGO}}
+
+\cvtext[0.2in]{Senate/Administration Working Group on Education Research, September 2025 -- present}
+
+\cvtext[0.2in]{Graduate Fellowship and Award Review Committee, July 2024 -- June 2026}
+
+\cvtext[0.2in]{Department of Economics Vice-Chair of Undergraduate Education, July 2022 -- June 2025}
+
+\cvtext[0.2in]{Chair of Business Economics B.Sc. Committee, July 2022 -- June 2025}
+
+\cvtext[0.2in]{Council of Undergraduate Education Department Representative, July 2022 -- June 2025}
+
+\cvtext[0.2in]{Chair of Recruiting Committee for Assistant Teaching Professor, 2020, 2022}
+
+\cvtext[0.2in]{Graduate Preliminary Examination Committee, 2010-2015, 2021-present}
+
+\cvtext[0.2in]{Faculty Director of Undergraduate Advising, January 2022 -- June 2022}
+
+\cvtext[0.2in]{Department of Economics Vice-Chair of Undergraduate Education, July 2020-Dec 2021}
+
+\cvtext[0.2in]{Director of Instruction, July 2018 -- June 2020}
+
+\cvtext[0.2in]{Recruiting Interviews for Assistant Professor, 2008, 2010}
+
+\cvtext[0.2in]{Graduate Admission Committee, 2009, 2010}
+
+\cvblank
+
+\cvschool[0.2in]{CU B{\fontsize{10}{13.8}\selectfont OULDER}}
+
+\cvtext[0.2in]{Office of Information Technology Faculty Advisory Committee, 2015-2017}
+
+\cvtext[0.2in]{Graduate Placement Director, 2017}
+
+\cvtext[0.2in]{Graduate Curriculum Committee, Fall 2014-2017}
+
+\cvtext[0.2in]{Recruiting Committee for Assistant Professor in Macroeconomics, 2016}
+
+\cvtext[0.2in]{Graduate Preliminary Examination Committee, 2015-2017}
+
+\cvtext[0.2in]{Graduate Admission Committee, 2015, 2017}
+
+\cvblank
+
+\cvsubsection[0.125in]{External}
+
+\cvblank
+
+\cvtext[0.2in]{Board of Advisors, Business and Economics Undergraduate Degree, University of Urbino}
+
+\cvblank
+
+\cvsubsection[0.125in]{Ph.D. Dissertation Committees}
+
+\cvblank
+
+\cvschool[0.2in]{UC S{\fontsize{10}{13.8}\selectfont AN }D{\fontsize{10}{13.8}\selectfont IEGO}}
+
+\cvblank
+
+\cvyearentry{2026:}{Francesco Amodeo (John Hopkins)}
+
+\cvblank
+
+\cvyearentry{2025:}{Xintong Li (Peking University) -- main advisor\\Erica Chuang (Hunter College)}
+
+\cvblank
+
+\cvyearentry{2023:}{Tyler Paul (University of Toronto) -- main advisor}
+
+\cvblank
+
+\cvyearentry{2014:}{Myunkgyu Shim (2014, Shanghai University of Finance and Economics)\\Fan (Dora) Xia (up to candidacy defense, 2014)\\Sungje Byun (up to candidacy defense, 2014)}
+
+\cvblank
+
+\cvyearentry{2013:}{Aeimit Lakdawala (2013, Michigan State University)\\Chim Lau (2013, Shanghai University of Finance and Economics)}
+
+\cvblank
+
+\cvblank
+
+\cvschool[0.2in]{CU B{\fontsize{10}{13.8}\selectfont OULDER}}
+
+\cvtext[0.2in]{Kristina Sargent (2017, Middlebury College)}
+
+\cvtext[0.2in]{Tianxiao Zheng (2016, Shanghai Advanced Institute of Finance)}
+
+\cvblank
+
+\cvblank
+
+\cvsubsection[0pt]{Graduate Summer Research Advisor}
+
+\cvblank
+
+\cvhang{0.1875in}{Facundo Pernigotti (2023), Xintong Li (2019, 2020), Michael Chua (2019) Kilian Heilman (2013), Gonzalo Valdes (2012), Nels Lind (2012), Roy Allen (2012), Myungkyu Shim (2011), Matthew Goldman (2011), Christian Constandse (2011)}
+
+\cvblank
+
+\cvsubsection[0.125in]{Undergraduate Research Advisor}
+
+\cvblank
+
+\cvtext[0.2in]{Ananya Kurana, Academic Internship Program, UCSD, Spring 2026}
+
+\cvtext[0.2in]{Anoushka Shandalaya, Academic Internship Program, UCSD, Summer 2025}
+
+\cvtext[0.2in]{Francesco Lombardi, Academic Internship Program, UCSD, Summer 2024}
+
+\cvtext[0.2in]{Yilin Zhang, Academic Internship Program, UCSD, Summer 2023}
+
+\cvtext[0.2in]{Ido Fastow, Independent Study Econ 199, UCSD, Spring 2011}
+
+\cvtext[0.2in]{Vasco Yasenov, Independent Study Econ 199, UCSD, Fall 2010}
+
+\cvtext[0.2in]{Daiki Ochiai, Academic Internship Program, UCSD, Summer 2009}
+
+\cvtext[0.2in]{Masato Otsuka, Academic Internship Program, UCSD, Summer 2009}
+
+\cvblank
+
+\cvtext[0.2in]{Stephanie Stockton, Undergraduate Honors Thesis Advisor, CU Boulder, Spring 2017}
+
+\cvtext[0.2in]{Yungmin Liu, Undergraduate Research Opportunity Program, CU Boulder, Summer 2015}
+
+\cvblank
+
+\cvblank
+
+\cvsubsection[0.125in]{Letter Writer for Undergraduate Students}
+
+\cvblank
+
+\cvyearentry{2008-2018:}{Payne Hennigan, Aditya Dugar, Yuming Liu, Andrew Yen, Cheng Yuan Tsai, Chung Sun, Eric Cabbage, Huang Haolun, Ido Fastow, Jonoathan Koh, Julie Chung, Jusin Lesniak, Kahei,Poon, Kimly Phamvan, Liu Yu Qing, Matthew Ling, Neda Shenavai, Philipp Pfeiffer, Rebecca Zaid, Tiffany Hon, Vasco Yasenov, Yu Zhang, Zixuan Yang, Yuwei Gia}
+
+\cvyearentry{2018-2019:}{En Cheng, Jin Yang, Jingwei Zhou, Yi Yang, Nathalie Nuoto}
+
+\cvyearentry{2019-2020:}{Bardia Farajnejad, Bradley Poteray, Giovanni Magagnin, Hanqing Xie, Hanshuang Liu, Hanwei Guo, Haotian Wu, Luc Esprabens, Natalie Mayor, William Phan, Xiaojia Yu, Ya Gao, Yan Xin, Yaochen Liu, Zecheng Kuang.}
+
+\cvyearentry{2020-2021:}{Arpit Dua, Arthur Bayramyam, Black Woods, Chongyu Fang, Gonzalo Reinoso-Olivan, Ruge Ma, Tarun Rathitra, Zhengbin Wang, Zixuan Cheng, Ziyuan Wu}
+
+\cvyearentry{2021-2022:}{Alvaro Belmar, Chenrui Li, Lingyi Hao, Paige Kan, Runfang Cao, Tal Roded, Teng-Shao Lu, Wanyi Sang, Zhuyu Qian}
+
+\cvyearentry{2022-2023:}{Vincent Pascaud, Yunxian Zhang, Zijun Lin}
+
+\cvyearentry{2023-2024:}{Gyuseung Lee, Haixiao Wang, Haoyan Liu, Jasmine Xia, Jason Fong, Lea Angelakos, Linghzi Dang, Shenghao Xue, Xueqi Mao, Yilin Zhang, Ying Lei, Zheminghao Zhu}
+
+\cvyearentry{2024-2025:}{Barbie Zhang, Abduboriyjon Miryusupov, Dilan Adhikari, Jason Fong, Sidhant Dhawan, Yuexan Gu, Yuhan Ma}
+
+\cvyearentry{2025-2026:}{Haoyan Wang, Ho Wang Tam, Mingzhe Li, Shiv Punjabi, Yanzhe Zhao}
+
+\cvblank
+
+\cvblank
+
+\cvsubsection[0.125in]{Public Lectures}
+
+\cvblank
+
+\cvtext[0.2in]{\textit{``Domestic Economic Outlook,''} National Conference of Valves Manufacturers, San Diego, August 2019}
+
+\cvblank
+
+\cvtext[0.2in]{``\textit{Getting the Facts: US Economic Growth, Employment and Productivity in the past 25} \textit{years}'', CU Boulder Social Science Forum, September 2015.}
+
+\cvblank
+
+\cvtext[0.2in]{``\textit{Goodbye Dolce Vita. How Italy's economic miracle has turned into a quarter-century-long} \textit{economic decline}'', sponsored by the Enhance Student-Faculty Interaction Fund, University of San Diego, March 2013.}
+
+\cvblank
+
+\cvtext[0.2in]{``\textit{Global Financial Imbalances}'', OSHER Lifelong Learning Institute, UCSD Extension, April 2012.}
+
+\cvblank
+
+\cvblank
+
+\Needspace{15\baselineskip}
+
+
+% ============ AWARDS, GRANTS, AND FELLOWSHIPS ============
+\cvsection{Awards, Grants, and Fellowships}
+
+\cvblank
+
+\cvsubsection[0.125in]{Teaching Awards}
+
+\cvblank
+
+\cvyearentry{2023:}{UCSD Graduate Core Course Teaching Award}
+
+\cvyearentry{2021:}{UCSD Graduate Core Course Teaching Award}
+
+\cvyearentry{2012:}{UCSD Graduate Core Course Teaching Award, UCSD Graduate Elective Course Teaching Award}
+
+\cvyearentry{2011:}{UCSD Graduate Core Course Teaching Award}
+
+\cvyearentry{2010:}{UCSD Graduate Core Course Teaching Award}
+
+\cvblank
+
+\cvblank
+
+\cvsubsection[0.125in]{Grants}
+
+\cvblank
+
+\cvjustify{\textit{Center for Economic Justice and Action (CEJA), }Grant on ``Financial Insecurity at UC San Diego,'' 2025-26. Extended through 2027.}
+
+\cvjustify{\textit{National Science Foundation}, Grant SES-0962350, ``Incomplete Information in Dynamic Economies: Theory and Applications'', 2010-2013. Extended through 2014.}
+
+\cvjustify{Christensen Award in Empirical Economics (UW Madison, 2006)}
+
+\cvblank
+
+\cvsubsection[0.125in]{Fellowships}
+
+\cvblank
+
+\cvjustify{Alice Gengler Wisconsin Distinguished Graduate Fellowship in Economics (2005)}
+
+\cvblank
+
+\cvjustify{Mac-Arthur Foundation Fellowship for Younger Scholars (2003)}
+
+\cvblank
+
+\cvjustify{Scholarship for Graduate Studies in Economics-Bocconi University (2001)}
+
+\end{document}
