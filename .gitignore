@@ -1,1 +1,11 @@
 .DS_Store
+/build/
+/public/
+/resources/
+/cv/*.aux
+/cv/*.log
+/cv/*.out
+/cv/*.pdf
+/cv/*.synctex.gz
+/cv/*.fls
+/cv/*.fdb_latexmk
