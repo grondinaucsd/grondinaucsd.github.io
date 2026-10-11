@@ -77,8 +77,8 @@ params:
           url: https://scholar.google.com/citations?user=I_UDccUAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/grondinaucsd?tab=repositories
-        - name: Twitter
-          url: https://twitter.com/giacomorondina?lang=en
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/giacomo-rondina-ucsd
 
     assets:
         disableHLJS: true
@@ -105,5 +105,5 @@ markup:
 
 # max number of characters:
 # * title: 70
-# * description: 120–155
+# * description: 120â€“155
 # * summary: 265
