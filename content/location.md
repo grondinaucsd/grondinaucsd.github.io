@@ -20,11 +20,19 @@ La Jolla, CA 92093-0508
 
 #### Office address
 
-Room E174 
-San Diego Supercomputer Center  
+Malk Hall  
+Office E379  
 UC San Diego
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.084177156068!2d-117.2391717!3d32.8843896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc06c1fd84fe93%3A0x1eb27ea2a3de8388!2sSan%20Diego%20Supercomputer%20Center!5e0!3m2!1sen!2sit!4v1690992379089!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+#### Map
+
+Malk Hall is **building 262** on the campus map below. My office is **E379**.
+
+[![Campus map showing Malk Hall (building 262) near Ridge Walk, Hopkins Parking Structure, and Geisel Library.](/static/Malk_Hall_Map.png)](https://facilityservices.ucsd.edu/_files/information/PrintMap-MainCampus.pdf)
+
+[Get directions to Malk Hall](https://www.google.com/maps/dir/?api=1&destination=Brian+C.+Malk+Hall+UC+San+Diego)
+
+Map: [UC San Diego Facilities Services, July 2026](https://facilityservices.ucsd.edu/_files/information/PrintMap-MainCampus.pdf). Click the image to view the full campus map and building index.
 
 
 
