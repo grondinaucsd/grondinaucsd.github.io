@@ -64,6 +64,9 @@
   <header class="entry-header">
     <h2>
       {{- .Title }}
+      {{- if eq .Section "papers" }}
+      <em class="paper-publication">({{ if .Params.publicationJournal }}{{ .Params.publicationJournal }}, {{ .Date.Format "2006" }}{{ else }}Working Paper{{ end }})</em>
+      {{- end }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
   </header>

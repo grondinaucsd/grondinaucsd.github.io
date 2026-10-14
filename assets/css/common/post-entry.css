@@ -56,6 +56,11 @@
     line-height: var(--lineheight);
 }
 
+.entry-header .paper-publication {
+    font-weight: 400;
+    font-style: italic;
+}
+
 .entry-content {
     margin: 20px 10px;
     color: var(--secondary);
